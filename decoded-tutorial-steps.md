@@ -1,6 +1,6 @@
 ### What is jQuery?
 
-jQuery is a widely used JavaScript library which makes it easier to find and change html elements on web pages, and do stuff in response to user events.
+jQuery is an (extremely) popular JavaScript library. jQuery makes it much easier to find and change html elements, and do stuff in response to user events to make webpages more interactive.
 
 ### SET UP:
 
@@ -107,6 +107,10 @@ Add the update total function inside our `.pending` click handler and our `funti
 ```
 updateTotal();
 ```
+
+### Credits:
+
+This tutorial is inspired and adapted from the jQuery tutorial from codebar.io, find the original one (without all the answers) here: 
 
 
 
