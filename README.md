@@ -86,13 +86,13 @@ $(document).on('click', '.pending', function() {
   });
   ```
 
-### Step 8: Add Completed class (strikethrough )
+### Step 9: Add Completed class (strikethrough )
 
 ```
 parentLi.addClass('completed');
 ```
 
-### Step 9: Add Running totals pending and completed items:
+### Step 10: Add Running totals pending and completed items:
 
 ```
 function updateTotal() {
