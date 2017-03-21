@@ -1,6 +1,6 @@
 ### What is jQuery?
 
-jQuery is an (extremely) popular JavaScript library. jQuery makes it much easier to find and change html elements, and do stuff in response to user events to make webpages more interactive.
+jQuery is an (extremely) popular JavaScript library, which makes it much, much easier to find and change html elements. It adds interactivity to webpages by doing "stuff" in response to user events.
 
 ### SET UP:
 
