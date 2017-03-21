@@ -110,18 +110,4 @@ updateTotal();
 
 ### Credits:
 
-This tutorial is inspired and adapted from the jQuery tutorial from codebar.io, find the original one (without all the answers) here: 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
+This tutorial is inspired and adapted from the jQuery tutorial from codebar.io, find the original one (without all the answers) here: [http://tutorials.codebar.io/js/lesson3/tutorial.html](http://tutorials.codebar.io/js/lesson3/tutorial.html).
